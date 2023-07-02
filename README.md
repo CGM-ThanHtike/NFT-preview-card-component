@@ -32,8 +32,8 @@ The challenge is to build out this product preview card component and get it loo
 
 ### Links
 
-- Solution URL: [Click to check my solution at Frontend Mentor]()
-- Live Site URL: [Click to check the live site](https://cgm-thanhtike.github.io/Order-summary/)
+- Solution URL: [Click to check my solution at Frontend Mentor](https://www.frontendmentor.io/solutions/i-put-a-subtle-transitions-on-hover-J-8MS44V8V)
+- Live Site URL: [Click to check the live site](https://cgm-thanhtike.github.io/NFT-preview-card-component/)
 
 ## My process
 
